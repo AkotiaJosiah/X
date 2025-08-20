@@ -25,12 +25,12 @@ The author is not responsible for any misuse.
 
 ### Linux
 ```bash
-git clone https://github.com/AkotiaJosiah/cipher-xss.git
+git clone https://github.com/AkotiaJosiah/cipherxss.git
 cd cipher-xss
 chmod +x cipherxss.sh
 ./cipherxss.sh
 
 ### Windows
-git clone https://github.com/AkotiaJosiah/cipher-xss.git
+git clone https://github.com/AkotiaJosiah/cipherxss.git
 cd cipher-xss
 cipherxss.bat
