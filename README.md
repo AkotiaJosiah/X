@@ -1,4 +1,4 @@
-# Cipher-XSS Toolkit
+# X Toolkit
 
 Cipher-XSS is a multi-platform cryptography and encoding toolkit inspired by penetration testing utilities.  
 It provides hashing, base64, URL encoding/decoding, and URL shortening — all inside a terminal interface.  
